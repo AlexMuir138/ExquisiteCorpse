@@ -6,7 +6,9 @@ namespace ExquisiteCorpse
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            GhostHead();
+            GhostBody();
+            GhostFeet();
         }
 
         static void GhostHead()

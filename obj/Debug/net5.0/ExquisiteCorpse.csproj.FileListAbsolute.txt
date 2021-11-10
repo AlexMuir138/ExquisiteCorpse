@@ -1,0 +1,15 @@
+/Users/alexmuir/source/codeacademy/ExquisiteCorpse/bin/Debug/net5.0/ExquisiteCorpse.deps.json
+/Users/alexmuir/source/codeacademy/ExquisiteCorpse/bin/Debug/net5.0/ExquisiteCorpse.runtimeconfig.json
+/Users/alexmuir/source/codeacademy/ExquisiteCorpse/bin/Debug/net5.0/ExquisiteCorpse.runtimeconfig.dev.json
+/Users/alexmuir/source/codeacademy/ExquisiteCorpse/bin/Debug/net5.0/ExquisiteCorpse.dll
+/Users/alexmuir/source/codeacademy/ExquisiteCorpse/bin/Debug/net5.0/ref/ExquisiteCorpse.dll
+/Users/alexmuir/source/codeacademy/ExquisiteCorpse/bin/Debug/net5.0/ExquisiteCorpse.pdb
+/Users/alexmuir/source/codeacademy/ExquisiteCorpse/obj/Debug/net5.0/ExquisiteCorpse.csproj.AssemblyReference.cache
+/Users/alexmuir/source/codeacademy/ExquisiteCorpse/obj/Debug/net5.0/ExquisiteCorpse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexmuir/source/codeacademy/ExquisiteCorpse/obj/Debug/net5.0/ExquisiteCorpse.AssemblyInfoInputs.cache
+/Users/alexmuir/source/codeacademy/ExquisiteCorpse/obj/Debug/net5.0/ExquisiteCorpse.AssemblyInfo.cs
+/Users/alexmuir/source/codeacademy/ExquisiteCorpse/obj/Debug/net5.0/ExquisiteCorpse.csproj.CoreCompileInputs.cache
+/Users/alexmuir/source/codeacademy/ExquisiteCorpse/obj/Debug/net5.0/ExquisiteCorpse.dll
+/Users/alexmuir/source/codeacademy/ExquisiteCorpse/obj/Debug/net5.0/ref/ExquisiteCorpse.dll
+/Users/alexmuir/source/codeacademy/ExquisiteCorpse/obj/Debug/net5.0/ExquisiteCorpse.pdb
+/Users/alexmuir/source/codeacademy/ExquisiteCorpse/obj/Debug/net5.0/ExquisiteCorpse.genruntimeconfig.cache

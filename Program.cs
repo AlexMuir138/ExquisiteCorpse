@@ -50,6 +50,55 @@ namespace ExquisiteCorpse
         }
         }
 
+        static void RandomMode()
+        {
+        Random randomNumber = new Random();
+        int head = randomNumber.Next(1,4);
+        int body = randomNumber.Next(1,4);
+        int feet = randomNumber.Next(1,4);
+        }
+
+        static void SwitchCase(int head, int body, int feet)
+        {
+        switch (head)
+        {
+            case 1:
+            GhostHead();
+            break;
+            case 2:
+            BugHead();
+            break;
+            case 3:
+            MonsterHead();
+            break;
+        }
+
+        switch (body)
+        {
+            case 1:
+            GhostBody();
+            break;
+            case 2:
+            BugBody();
+            break;
+            case 3:
+            MonsterBody();
+            break;
+        }
+    
+        switch (feet)
+        {
+            case 1:
+            GhostFeet();
+            break;
+            case 2:
+            BugFeet();
+            break;
+            case 3:
+            MonsterFeet();
+            break;
+        }
+        }
         static void GhostHead()
         {
         Console.WriteLine("     ..-..");
